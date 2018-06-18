@@ -2,71 +2,71 @@
 # DON'T FORGET! - All important 'front matter' comment to ensure Jekyll properly reads file.
 ---
 //  External Library Includes 
-@import 'scss/_normalize.css';
+@import 'scss/_normalize.scss';
 
 
 //  Variables 
 //  Importing here will allow you to override any variables in the modules 
 
-@import 'scss/_variables';
+@import 'scss/_variables.scss';
 
 //  Debugging
-@import 'scss/_debug-children';
-@import 'scss/_debug-grid';
+@import 'scss/_debug-children.scss';
+@import 'scss/_debug-grid.scss';
 
 //  Uncomment out the line below to help debug layout issues 
-//  @import 'scss/_debug';
+//  @import 'scss/_debug.scss';
 
  //  Modules 
- @import 'scss/_box-sizing';
- @import 'scss/_aspect-ratios';
- @import 'scss/_images';
- @import 'scss/_background-size';
- @import 'scss/_background-position';
- @import 'scss/_outlines';
- @import 'scss/_borders';
- @import 'scss/_border-colors';
- @import 'scss/_border-radius';
- @import 'scss/_border-style';
- @import 'scss/_border-widths';
- @import 'scss/_box-shadow';
- @import 'scss/_code';
- @import 'scss/_coordinates';
- @import 'scss/_clears';
- @import 'scss/_display';
- @import 'scss/flexbox';
- @import 'scss/_floats';
- @import 'scss/_font-family';
- @import 'scss/_font-style';
- @import 'scss/_font-weight';
- @import 'scss/_forms';
- @import 'scss/_heights';
- @import 'scss/_letter-spacing';
- @import 'scss/_line-height';
- @import 'scss/_links';
- @import 'scss/_lists';
- @import 'scss/_max-widths';
- @import 'scss/_widths';
- @import 'scss/_overflow';
- @import 'scss/position';
- @import 'scss/_opacity';
- @import 'scss/_rotations';
- @import 'scss/_skins';
- @import 'scss/_skins-pseudo';
- @import 'scss/_spacing';
- @import 'scss/_negative-margins';
- @import 'scss/_tables';
- @import 'scss/_text-decoration';
- @import 'scss/_text-align';
- @import 'scss/_text-transform';
- @import 'scss/_type-scale';
- @import 'scss/_typography';
- @import 'scss/_utilities';
- @import 'scss/_visibility';
- @import 'scss/_white-space';
- @import 'scss/_vertical-align';
- @import 'scss/_hovers';
- @import 'scss/_z-index';
- @import 'scss/_nested';
- @import 'scss/_styles';
- @import 'scss/_animate'
+ @import 'scss/_box-sizing.scss';
+ @import 'scss/_aspect-ratios.scss';
+ @import 'scss/_images.scss';
+ @import 'scss/_background-size.scss';
+ @import 'scss/_background-position.scss';
+ @import 'scss/_outlines.scss';
+ @import 'scss/_borders.scss';
+ @import 'scss/_border-colors.scss';
+ @import 'scss/_border-radius.scss';
+ @import 'scss/_border-style.scss';
+ @import 'scss/_border-widths.scss';
+ @import 'scss/_box-shadow.scss';
+ @import 'scss/_code.scss';
+ @import 'scss/_coordinates.scss';
+ @import 'scss/_clears.scss';
+ @import 'scss/_display.scss';
+ @import 'scss/flexbox.scss';
+ @import 'scss/_floats.scss';
+ @import 'scss/_font-family.scss';
+ @import 'scss/_font-style.scss';
+ @import 'scss/_font-weight.scss';
+ @import 'scss/_forms.scss';
+ @import 'scss/_heights.scss';
+ @import 'scss/_letter-spacing.scss';
+ @import 'scss/_line-height.scss';
+ @import 'scss/_links.scss';
+ @import 'scss/_lists.scss';
+ @import 'scss/_max-widths.scss';
+ @import 'scss/_widths.scss';
+ @import 'scss/_overflow.scss';
+ @import 'scss/position.scss';
+ @import 'scss/_opacity.scss';
+ @import 'scss/_rotations.scss';
+ @import 'scss/_skins.scss';
+ @import 'scss/_skins-pseudo.scss';
+ @import 'scss/_spacing.scss';
+ @import 'scss/_negative-margins.scss';
+ @import 'scss/_tables.scss';
+ @import 'scss/_text-decoration.scss';
+ @import 'scss/_text-align.scss';
+ @import 'scss/_text-transform.scss';
+ @import 'scss/_type-scale.scss';
+ @import 'scss/_typography.scss';
+ @import 'scss/_utilities.scss';
+ @import 'scss/_visibility.scss';
+ @import 'scss/_white-space.scss';
+ @import 'scss/_vertical-align.scss';
+ @import 'scss/_hovers.scss';
+ @import 'scss/_z-index.scss';
+ @import 'scss/_nested.scss';
+ @import 'scss/_styles.scss';
+ @import 'scss/_animate.scss'
