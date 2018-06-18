@@ -13,6 +13,6 @@ Also includes [Tachyons Animate](http://andrewnater.com/tachyons-animate/)
 ### How to use
 
 - fork or download repo
-- use [Tachyons Skin Generator](https://tachyons-tldr.now.sh/#/tools) to create your own color utility classes
+- use [Tachyons Color Generator](https://colorgen.netlify.com/) or [Tachyons Skin Generator](https://tachyons-tldr.now.sh/#/tools) to create your own color utility classes
 - add color classes to 'colors.scss'
 - add custom classes to 'custom.scss'
